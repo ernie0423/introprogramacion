@@ -1,0 +1,1 @@
+print("ayuda no se programar jajaja")
