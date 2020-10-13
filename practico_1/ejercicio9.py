@@ -17,4 +17,4 @@ elif operador == "**":
     conclucion = num1**num2
     print(f"{num1}**{num2}={conclucion}")
 else:
-    print("syntax error")
+    print("syntax error.")
