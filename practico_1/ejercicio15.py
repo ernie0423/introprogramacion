@@ -1,1 +1,1 @@
-print("ayuda no se programar jajaja")
+print("ayuda no se programar jajaja ")
