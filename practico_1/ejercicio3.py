@@ -7,4 +7,4 @@ if resto == 0 :
 else :
     print("la division no es exacta")
 print(f"cociente: {cociente}")
-print(f"resto: {resto}")
+print(f"resto= {resto}")

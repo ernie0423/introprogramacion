@@ -7,4 +7,4 @@ if long1 > long2:
 elif long1 == long2:
     print(f"{palabra_1} tiene las mismas letras que {palabra_2}")
 else:
-    print(f"{palabra_2} tiene las mismas letras que {palabra_1}")
+    print(f"{palabra_2} tiene las mismas letras que {palabra_1} .")
