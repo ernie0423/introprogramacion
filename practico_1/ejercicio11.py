@@ -13,4 +13,4 @@ if meses < 0 or dias < 0:
 if meses < 0:
     print(f"faltan {meses * -1} meses para su cumpleaños.")
 if dias < 0:
-    print(f"faltan {dias * -1} dias para su cumpleaños.")
+    print(f"faltan {dias * -1} dias para su cumpleaños")

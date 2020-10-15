@@ -10,4 +10,4 @@ if edad < 45:
         if Indice_de_masa_corporal < 22.0:
             print("su condicion de riesgo en base a su indice de masa corporal es: media")
         elif Indice_de_masa_corporal >= 22.0:
-            print("su condicion de riesgo en base a su indice de masa corporal es: alta")
+            print(" su condicion de riesgo en base a su indice de masa corporal es: alta")
