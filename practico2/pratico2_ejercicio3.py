@@ -5,6 +5,6 @@ def contador(lista):
     return contador
 
 
-palabra = input("Dame la palabra: ")
+palabra = input("ingrese la palabra: ")
 res = contador(palabra)
 print(res)

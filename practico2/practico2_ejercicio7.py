@@ -2,6 +2,6 @@ def caracteres(numC, caracter):
     carac = (caracter*numC)
     print(carac)
 
-caracter = input("Dame el caracter que quires que se repita: ")
-num = int(input("Dame el numeros de veces que quieres que se repita el caracter: "))
+caracter = input("ingrese el caracter que quiera que se repita: ")
+num = int(input("ingrese el numeros de veces que quiera que se repita el caracter: "))
 caracteres(num, caracter)

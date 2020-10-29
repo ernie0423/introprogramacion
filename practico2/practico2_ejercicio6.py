@@ -11,4 +11,4 @@ def palindromo(palabra):
         print(palabra, " = FALSE")
 
 palabra = input("ingrese una frase: ")
-palindromo(palabra
+palindromo(palabra)

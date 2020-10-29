@@ -1,4 +1,4 @@
-pletra= input("ingrese una letra: ")
+pletra= input("ingrese una letra:  ")
 pletra=pletra.upper()
 vocales= "AEIOU"
 if pletra in vocales:
