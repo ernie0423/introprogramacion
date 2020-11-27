@@ -11,7 +11,7 @@ for i in range(0,5):
 
 numeros_2=0
 for i in range(0,5):
-    agregado2=int(input("ingrese cinco numeros más: "))
+    agregado2=int(input("ingrese cinco numeros más : "))
     numeros_2=numeros_2+agregado2
     vector_2.append(numeros_2)
 
